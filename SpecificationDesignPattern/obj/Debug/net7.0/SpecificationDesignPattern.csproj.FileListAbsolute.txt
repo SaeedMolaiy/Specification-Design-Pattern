@@ -1,0 +1,15 @@
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\bin\Debug\net7.0\SpecificationDesignPattern.exe
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\bin\Debug\net7.0\SpecificationDesignPattern.deps.json
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\bin\Debug\net7.0\SpecificationDesignPattern.runtimeconfig.json
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\bin\Debug\net7.0\SpecificationDesignPattern.dll
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\bin\Debug\net7.0\SpecificationDesignPattern.pdb
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\SpecificationDesignPattern.csproj.AssemblyReference.cache
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\SpecificationDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\SpecificationDesignPattern.AssemblyInfoInputs.cache
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\SpecificationDesignPattern.AssemblyInfo.cs
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\SpecificationDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\SpecificationDesignPattern.dll
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\refint\SpecificationDesignPattern.dll
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\SpecificationDesignPattern.pdb
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\SpecificationDesignPattern.genruntimeconfig.cache
+C:\Users\s.molaee.KNR\source\repos\SpecificationDesignPattern\SpecificationDesignPattern\obj\Debug\net7.0\ref\SpecificationDesignPattern.dll
